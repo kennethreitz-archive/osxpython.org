@@ -1,0 +1,23 @@
+osxpython.org
+=============
+
+
+Goals
+-----
+
+[osxpython.org](http://osxpython.org) is under active development. It strives to offer the following:
+
+* Establish best-practices for Python as a development platform on OSX
+	- Installation
+	- Configuration
+	- Application distribution
+	
+* A reference guide and resource for Python developers using OS X  
+* Anyone can contribute on GitHub via pull request
+
+
+Join the mailing list
+---------------------
+
+If you disagree with any of the best-practices and guides, feel free to [open an issue](https://github.com/kennethreitz/osxpython.org/issues).
+
