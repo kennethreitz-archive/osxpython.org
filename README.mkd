@@ -15,8 +15,10 @@ Goals
 * Easily contributable on GitHub via pull request
 
 
-Join the mailing list
----------------------
+Get Involved
+------------
 
 If you disagree with any of the best-practices and guides, feel free to [open an issue](https://github.com/kennethreitz/osxpython.org/issues).
+
+Discussions regularly take place on the osxpython.org mailing list. To join, just send an email to <osxpython@librelist.com>.
 
