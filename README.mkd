@@ -1,7 +1,6 @@
 osxpython.org
 =============
 
-
 Goals
 -----
 
@@ -13,6 +12,19 @@ Goals
 	- Application distribution
 * A reference guide and resource center
 * Easily contributable on GitHub via pull request
+
+
+Propositions
+------------
+
+* `sudo brew install python --framework` recommended.
+* MacPorts is evil.
+* [Buildout scripts](http://blog.mfabrik.com/2010/07/16/easily-install-all-python-versions-under-linux-and-osx-using-collective-buildout-python/) for legacy pythons.
+* 
+* IDE / Editor Choices
+* Wishlist?
+
+
 
 
 Get Involved
