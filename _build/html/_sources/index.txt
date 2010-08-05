@@ -3,18 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to osxpython's documentation!
+Welcome to OSXPython.org
 =====================================
 
-Contents:
+Welcome to OSXPython.org. This site exists to provide novice and expert Python developers using OS X a best-practice handbook to the installation, configuration, and usage of Python on a daily basis.
 
-.. toctree::
-   :maxdepth: 2
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+.. include:: contents.rst.inc
