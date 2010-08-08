@@ -11,7 +11,7 @@ instructions for web development with Flask.
 
    foreword
    installation
-   quickstart
+   useful-tools
    tutorial/index
    templating
    testing

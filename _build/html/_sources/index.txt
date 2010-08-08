@@ -6,6 +6,6 @@
 Welcome to OSXPython.org
 =====================================
 
-Welcome to OSXPython.org. This site exists to provide novice and expert Python developers using OS X a best-practice handbook to the installation, configuration, and usage of Python on a daily basis.
+Welcome to OSXPython.org. This site exists to provide both novice and expert Python developers using OS X a best-practice handbook to the installation, configuration, and usage of Python on a daily basis.
 
 .. include:: contents.rst.inc
