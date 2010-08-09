@@ -43,6 +43,9 @@ mode. The outdated version of Python that Snow Leopard comes packaged with
 is built as a Framework, so this helps avoid some future module installation 
 bugs. 
 
+*Don't forget to update your environment PATH.* ::
+
+    $ echo 'EXPORT PATH=/usr/local/Cellar/python2.7/bin:$PATH' >> .profile
 
 Distribute & Pip
 ----------------
