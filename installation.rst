@@ -13,7 +13,7 @@ just import your application and start playing around.
 
 
 Package Manager
----------------
+:::::::::::::::
 
 While Snow Leopard comes with a large number of UNIX utilities, those 
 familiar with Linux systems will notice one key component missing: a 
@@ -31,14 +31,14 @@ It's basic commands are **update**, **install**, and **remove**.
 
 
 Python Interpreter
-------------------
+::::::::::::::::::
 
 And we can now install Python 2.7: ::
 
-    $ sudo brew install python --framework
+    $ sudo brew install python ::framework
 
 
-The ``--framework`` option tells Homebrew to compile Python in Framework 
+The ``::framework`` option tells Homebrew to compile Python in Framework 
 mode. The outdated version of Python that Snow Leopard comes packaged with 
 is built as a Framework, so this helps avoid some future module installation 
 bugs. 
@@ -48,7 +48,7 @@ bugs.
     $ echo 'EXPORT PATH=/usr/local/Cellar/python2.7/bin:$PATH' >> .profile
 
 Distribute & Pip
-----------------
+::::::::::::::::
 
 *Distribute* is a fantastic drop-in replacement for *easy_install* and 
 *setuptools*. It allows you to install and manage python packages from 
@@ -72,7 +72,7 @@ Hopefully you'll never have to use **easy_install** again.
 
 
 .. Firing Before/After Request
-.. ---------------------------
+.. ::::::::::::::::::::::::::-
 .. 
 .. By just creating a request context, you still don't have run the code that
 .. is normally run before a request.  This probably results in your database
@@ -99,7 +99,7 @@ Hopefully you'll never have to use **easy_install** again.
 
 
 Further Improving the Shell Experience
---------------------------------------
+::::::::::::::::::::::::::::::::::::::
 
 If you like the idea of experimenting in a shell, create yourself a module
 with stuff you want to star import into your interactive session.  There
